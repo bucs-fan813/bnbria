@@ -1,0 +1,7 @@
+{
+    "require": {
+        "bcosca/fatfree-core": "^3.6",
+        "league/oauth2-client": "^2.3",
+        "mmucklo/krumo": "^0.5.7"
+    }
+}
